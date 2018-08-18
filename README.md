@@ -1,2 +1,3 @@
-# infoshare-academy-git-bisect-example
-Example of git bisect usage
+# infoShare Academy Bisect Example
+
+Example of git bisect command usage.
