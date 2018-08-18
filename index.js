@@ -2,7 +2,7 @@
 
 const addNumbers = (a, b) => +a + +b;
 const divideNumbers = (a, b) => {
-    if (+b === 0) {
+    if (b === 0) {
         throw "Second number cannot be 0!";
     }
 
